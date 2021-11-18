@@ -1,3 +1,2 @@
 # Solar_System_Website
-A website displaying random facts about the solar system.
-
+A website displaying facts about the solar system.
